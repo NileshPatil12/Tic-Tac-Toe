@@ -1,4 +1,4 @@
-**Tic-Tac-Toe** site which has anime image has backgorund.
+**Tic-Tac-Toe** Web site which has anime image has backgorund.
 
 Tech :- HTML, CSS, Javascript
 
